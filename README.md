@@ -1,4 +1,4 @@
-## Teclast X3 Plus Linux / Android touch Firmware
+# Teclast X3 Plus Linux / Android touch Firmware
 
 ## Reference file
 https://github.com/onitake/gsl-firmware/
