@@ -23,6 +23,9 @@ https://www.youtube.com/watch?v=aeT23rZcuoc
 in android terminnal. just type below.
 
 <code>cd /lib/firmware</code>
+
 <code>rm silead_ts.fw</code>
+
 <code>mv /sdcard/Download/silead_tw.fw .</code>
+
 <code>chmod 755 silead_ts.fw</code>
